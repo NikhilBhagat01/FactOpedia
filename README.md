@@ -38,6 +38,13 @@ To run this project, you will need to add the following environment variables to
 `REACT_APP_SUPABASE_KEY`
 
 
+## Tech Stack
+
+**Client:** React
+
+**Backend:** SupaBase
+
+
 
 ![factopedia](https://user-images.githubusercontent.com/96339472/213453163-577eb681-f022-4969-be92-c0691f494c4f.png)
 
