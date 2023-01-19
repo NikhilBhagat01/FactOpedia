@@ -1,14 +1,9 @@
-# <<<<<<< HEAD
-
-> > > > > > > 5b63e76030c883f9f33de6abdff27725d336bcbb
 
 # FactOpedia
 
 This is a Fact sharing web app....
 
-# <<<<<<< HEAD
 
-> > > > > > > 5b63e76030c883f9f33de6abdff27725d336bcbb
 
 ## Run Locally
 
