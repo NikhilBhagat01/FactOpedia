@@ -1,6 +1,14 @@
+# <<<<<<< HEAD
+
+> > > > > > > 5b63e76030c883f9f33de6abdff27725d336bcbb
+
 # FactOpedia
 
 This is a Fact sharing web app....
+
+# <<<<<<< HEAD
+
+> > > > > > > 5b63e76030c883f9f33de6abdff27725d336bcbb
 
 ## Run Locally
 
@@ -27,3 +35,17 @@ Start the server
 ```bash
   npm run start
 ```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`REACT_APP_SUPABASE_KEY`
+
+## Tech Stack
+
+**Client:** React
+
+**Backend:** SupaBase
+
+![factopedia](https://user-images.githubusercontent.com/96339472/213453163-577eb681-f022-4969-be92-c0691f494c4f.png)
